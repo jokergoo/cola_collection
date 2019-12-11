@@ -15,7 +15,7 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 BiocManager::install("cola")
 ```
 
-The latest version can be directly installed from GitHub:
+The latest version can be directly installed from [GitHub](https://github.com/jokergoo/cola):
 
 ```r
 library(devtools)
